@@ -16,4 +16,4 @@ This repository serves as a central hub for sharing resources, project files, me
 ## Contact Us
 Got questions, ideas, or suggestions? Feel free to reach out to us:
 - **Email**: [vmani006@ucr.edu](mailto:vmani006@ucr.edu), [wtin001@ucr.edu](mailto:wtin001@ucr.edu)
-- **Social Media**: Follow us on [Instagram]([https://www.instagram.com/ewbucr/]) for the latest updates.
+- **Social Media**: Follow us on [Instagram](https://www.instagram.com/ewbucr/) for the latest updates.
